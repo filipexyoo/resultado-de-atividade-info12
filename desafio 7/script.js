@@ -16,7 +16,7 @@
 
 //anotações
 //final de uma condicão usar ;
-// não esquecer aspas nas coisas que precisa, e colocar no console.console.log
+// não esquecer aspas nas coisas que precisa, e colocar no console.log
 //VARIAVEIS NÃO USAM ASPAS!!!!!!!!!!!!!!!!!!
 //aspas é complicado
 //esqueci de adicionar o script no html kkkkkkkkkkkkkkkkkkkkk
